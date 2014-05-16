@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EP-Team\n"
+"POT-Creation-Date: 2014-05-09 20:25+0100\n"
+"PO-Revision-Date: 2014-05-09 20:25+0100\n"
+"Last-Translator: Stefan <stefan@stefans-entwicklerecke.de>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: Z:\\eplite\\cakephp-git-starter-master\\eplite-team"
+"\\app\n"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/AppController.php:102
+msgid "Requested access"
+msgstr "Zugriff beantragt"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/AppController.php:103
+msgid "Invited"
+msgstr "Eingeladen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/AppController.php:104
+msgid "Member"
+msgstr "Mitglied"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/AppController.php:105
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:17
+msgid "Admin"
+msgstr "Admin"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/CategoriesController.php:23
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:39
+msgid "Manage categories"
+msgstr "Kategorien verwalten"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupUsersController.php:25
+msgid "User management"
+msgstr "Benutzerverwaltung"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupUsersController.php:150
+msgid "User invited"
+msgstr "Benutzer eingeladen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupUsersController.php:156
+msgid "Invitation sent"
+msgstr "Einladung versendet"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupUsersController.php:158
+msgid "Error on sending invitation email!"
+msgstr "Fehler beim Senden der Einladungs E-Mail!"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupUsersController.php:179
+msgid "Request membership to group"
+msgstr "Beantrage Mitgliedschaft der Gruppe"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupUsersController.php:197
+msgid "Accept invitation to group"
+msgstr "Akzeptiere Einladung in Gruppe"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupsController.php:6
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:58
+msgid "Groups"
+msgstr "Gruppen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupsController.php:52
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:62
+msgid "Pads"
+msgstr "Pads"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupsController.php:54
+msgid "You are not a member of this group."
+msgstr "Du bist kein Mitglied dieser Gruppe"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupsController.php:101
+msgid "Group does not exist."
+msgstr "Gruppe existiert nicht"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupsController.php:149
+msgid "Could not delete group."
+msgstr "Gruppe konnte nicht gelöscht werden"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/GroupsController.php:156
+msgid "Search"
+msgstr "Suche"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:20
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:76
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/login.ctp:11
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/register.ctp:7
+msgid "Login"
+msgstr "Anmelden"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:29
+msgid "Invalid email or password, try again"
+msgstr "Ungültige E-Mail oder Passwort. Bitte erneut probieren"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:39
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:66
+msgid "Profile"
+msgstr "Profil"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:47
+msgid "You are not allowed to view this user profile."
+msgstr "Du bist nicht dazu berechtigt dieses Profil zu sehen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:91
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/login.ctp:13
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/register.ctp:5
+msgid "Register"
+msgstr "Registrieren"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:105
+msgid "New user created. An email has sent to you to activate your account."
+msgstr ""
+"Neuer Benutzer erstellt. Eine E-Mail, um deinen Account zu aktivieren, wurde "
+"dir zugesandt."
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:107
+msgid "Error on sending email!"
+msgstr "Fehler beim Senden der E-Mail"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:111
+msgid "Error on creating user."
+msgstr "Fehler beim Erstellen des Benutzers"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:115
+msgid "Unable to add user."
+msgstr "Benutzer konnte nicht hinzugefügt werden"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:117
+msgid "User with this email already exists"
+msgstr "Benutzer mit dieser E-Mail existiert bereits"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:128
+msgid "Account successfully activated."
+msgstr "Account wurde erfolgreich aktiviert"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:130
+msgid "Account activation failed."
+msgstr "Aktivierung des Accounts ist fehlgeschlagen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/Controller/UsersController.php:170
+msgid "Account deleted."
+msgstr "Account gelöscht."
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Categories/manage.ctp:111
+msgid "Create category"
+msgstr "Kategorie erstellen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Categories/manage.ctp:113
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:58
+msgid "Categories"
+msgstr "Kategorien"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Categories/manage.ctp:150
+msgid "Delete category"
+msgstr "Kategorie löschen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Categories/manage.ctp:153
+msgid "Do you really want to delete this category?"
+msgstr "Möchtest du wirklich diese Kategorie löschen?"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Categories/manage.ctp:173
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:60
+msgid "Save"
+msgstr "Speichern"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/accept_invitation.ctp:4
+msgid "Accept invitation"
+msgstr "Akzeptiere Einladung"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/request_membership.ctp:4
+msgid "Membership already requested"
+msgstr "Mitgliedschaft bereits angefragt"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/request_membership.ctp:4
+msgid "Request membership"
+msgstr "Beantrage Mitgliedschaft"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:8
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:55
+msgid "Name"
+msgstr "Name"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:11
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/register.ctp:3
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:14
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:30
+msgid "Status"
+msgstr "Status"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:52
+msgid "Make admin"
+msgstr ""
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:52
+#, fuzzy
+msgid "Make member"
+msgstr "Mitglied"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:66
+msgid "Email"
+msgstr "E-Mail"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/GroupUsers/view.ctp:69
+msgid "Invite user"
+msgstr "Benutzer einalden"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/index.ctp:7
+msgid "(Delete)"
+msgstr "(Löschen)"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/index.ctp:7
+msgid "Delete team"
+msgstr "Team löschen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/index.ctp:10
+msgid "Do you really want to delete this team?"
+msgstr "Möchtest du wirklich dieses Team löschen?"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/index.ctp:29
+msgid "Group Name"
+msgstr "Gruppen Name"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/index.ctp:31
+msgid "Create group"
+msgstr "Gruppe erstellen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/search.ctp:4
+msgid "Search text"
+msgstr "Suche text"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/search.ctp:7
+msgid "Search Text"
+msgstr "Suche Text"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:6
+msgid "Author"
+msgstr "Autor"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:9
+msgid "Valid until"
+msgstr "Gültig bis"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:35
+msgid "Manage users"
+msgstr "Benutzer verwalten"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:43
+msgid "Pad search"
+msgstr "Pad Suche"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:61
+msgid "Online Users"
+msgstr "Benutzer online"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:64
+msgid "Action"
+msgstr "Aktion"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:73
+msgid "Delete pad"
+msgstr "Pad löschen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:76
+msgid "Do you really want to delete this pad?"
+msgstr "Möchtest du wirklich dieses Pad löschen?"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:94
+msgid "Show"
+msgstr "Anzeigen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:106
+msgid "Pad name"
+msgstr "Pad Name"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Groups/view.ctp:109
+msgid "Create pad"
+msgstr "Pad erstellen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:47
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:48
+msgid "Start page"
+msgstr "Startseite"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Layouts/default.ctp:71
+msgid "Logout"
+msgstr "Abmelden"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Pads/show.ctp:12
+msgid "Your browser doesn't support iframe's"
+msgstr "Dein Browser unterstützt keine IFrame's"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Pads/view.ctp:18
+msgid "Users"
+msgstr "Benutzer"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/login.ctp:5
+msgid "email"
+msgstr "E-Mail"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/login.ctp:9
+msgid "password"
+msgstr "Passwort"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/register.ctp:4
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:18
+msgid "Password"
+msgstr "Passwort"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:19
+msgid "Repeat password"
+msgstr "Passwort wiederholen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:27
+msgid "Team"
+msgstr "Team"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:33
+msgid "Sessions"
+msgstr "Sitzungen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:62
+msgid "Delete account"
+msgstr "Account löschen"
+
+#: Z:\eplite\cakephp-git-starter-master\eplite-team\app/View/Users/view.ctp:65
+msgid "Do you really want to delete your account?"
+msgstr "Möchtest du wirklich deinen Account löschen?"
+
+#~ msgid "Users of"
+#~ msgstr "Benutzer von"
+
+#~ msgid "Group"
+#~ msgstr "Gruppe"
+
+#~ msgid "New user created"
+#~ msgstr "Neuer Benutzer erstellt"
+
+#~ msgid "Do you really want to delete this session?"
+#~ msgstr "Möchtest du wirklich diese Sitzung löschen?"

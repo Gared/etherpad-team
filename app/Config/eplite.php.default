@@ -1,0 +1,8 @@
+<?php
+$config = array(
+    'Eplite.apikey' => 'APIKEY',
+    'Eplite.apiurl' => 'http://192.168.178.21:9001',
+    'Eplite.frameurl' => 'http://your.domain.com/eplite_root',
+    'Eplite.sitename' => 'EPLite-Team'
+);
+?>

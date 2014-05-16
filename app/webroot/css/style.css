@@ -1,0 +1,143 @@
+body {
+    margin-top: 60px;
+    font-family: Verdana, 'Vera Sans', sans-serif;
+    font-size: 12px;
+}
+
+#content {
+    position: relative;
+}
+
+#header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    /*text-align: center;*/
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    vertical-align: top;
+    background-image: linear-gradient(#9FBFD2 0%, #eeeeee 100%);
+}
+
+#header_bar {
+	margin: 0 auto;
+	width: 700px;
+	height: 100%;
+}
+
+#header_bar ul {
+    height: 100%;
+    margin: 0;
+    float: right;
+}
+
+#header_bar ul li{
+    display: inline-block;
+    border-left: solid 1px;
+    border-right: solid 1px;
+    height: 100%;
+}
+
+#header_bar ul li:hover {
+    background-image: linear-gradient(#bFEFE2 0%, #cccccc 100%);
+}
+
+#header_bar ul li a {
+    text-decoration: none;
+    color: grey;
+    padding: 5px;
+}
+#header_bar ul li a:hover {
+    color: blue;
+}
+
+#footer {
+	text-align: center;
+}
+
+label {
+    padding: 10px;
+}
+
+input:not([type="submit"]) {
+    padding: 8px;
+    margin: 5px;
+    font-size: 18px;
+    width: 500px;
+}
+
+input[type="submit"] {
+    background-image: linear-gradient(to bottom, #FF8800, #FFC880);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 3px 3px 5px 6px #CCCCCC;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1;
+    margin: 10px;
+    padding: 5px 8px;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    transition: background-image 0.5s linear 2s;
+}
+
+input:focus {
+    border: solid 2px orange;
+}
+
+a {
+    color: grey;
+    font-size: 24px;
+    text-decoration: none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: orange;
+}
+
+.category {
+    border-radius: 10px;
+    font-size: 16px;
+    margin: 5px;
+    padding: 8px 3px 5px 3px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.padname {
+	border: 1px solid black;
+	border-radius: 4px;
+	font-size: 14px;
+	padding: 5px;
+}
+
+table {
+}
+
+table td {
+	padding: 5px;	
+}
+
+table thead {
+	border: 0;
+	text-align: center;
+	background-color: orange;
+	font-size: 16px;
+}
+
+#etherpad_frame {
+	width: 100%;
+	border: 0 none;
+	padding: 0;
+	margin: 0;	
+}
+
+#site_icon {
+	float: left;
+	margin-top: 5px;
+}
